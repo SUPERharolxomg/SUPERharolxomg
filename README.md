@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I am passionate about change, continuous learning, order, respect, and commitment. I am currently studying at the University of Manizales in Software Development Technology for digital business in the last semester. 
+I’m Junnior Software Developer with a great performance in AngularJs, interactions with APIrest, also have knowledge in maquetacion in ReactJs, MYSQL,Postgresql,Docker and Git. 
 
 ## 🔧 Skills
 
