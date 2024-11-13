@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I’m Junnior Software Developer with a great performance in AngularJs, interactions with APIrest, also have knowledge in maquetacion in ReactJs, MYSQL,Postgresql,Docker and Git. 
+ I'm a Front-End developer with experience in web application development, with knowledge in handling REST APIs using AngularJS and ReactJS. I am passionate about continuous learning, change and delivering a well-structured, respectful and committed job. 
 
 ## 🔧 Skills
 
