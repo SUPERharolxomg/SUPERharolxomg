@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
- I'm a Front-End developer with experience in web application development, with knowledge in handling REST APIs using AngularJS and ReactJS. I am passionate about continuous learning, change and delivering a well-structured, respectful and committed job. 
+Software Developer with experience in Frontend development, QA engineering, and automation testing. Strong background in Angular, Python, and REST API integration. Experienced working in Agile environments and collaborating with cross-functional teams to deliver scalable and maintainable solutions. Focused on performance optimization, clean architecture, and continuous improvement.
 
 ## 🔧 Skills
 
