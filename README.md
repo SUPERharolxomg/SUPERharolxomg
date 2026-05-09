@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi
 
 Software Developer with experience in Frontend development, QA engineering, and automation testing. Strong background in Angular, Python, and REST API integration. Experienced working in Agile environments and collaborating with cross-functional teams to deliver scalable and maintainable solutions. Focused on performance optimization, clean architecture, and continuous improvement.
 
